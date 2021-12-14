@@ -6,7 +6,7 @@ CNN과 GAN을 이용한 사이트<br>
 
 
 
-<딥러닝 프로젝트>
+<딥러닝 프로젝트> <br>
 DENSECAP <br>
 HoG 알고리즘 <br>
 DBSCAN <br>
